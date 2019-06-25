@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile2 (2.4.0)
+    multi_json (1.13.1)
+    ruby-jq (0.2.1)
+      mini_portile2 (>= 2.2.0)
+      multi_json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-jq (= 0.2.1)
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.1
