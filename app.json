@@ -1,0 +1,13 @@
+{
+  "env": {
+    "RUBYJQ_USE_SYSTEM_LIBRARIES": "yes"
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/voke/heroku-buildpack-libjq.git"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
